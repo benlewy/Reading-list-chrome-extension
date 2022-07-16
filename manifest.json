@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "description": "This extension allows you to save URLs or other inputs you want to come back to later",
+    "version": "1.0",
+    "name": "Memory",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "rate.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
